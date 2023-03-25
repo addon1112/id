@@ -164,3 +164,18 @@ MD5sum: 202b8dc8b806c2681fabd277c311b860
 SHA1: a364b6b20b5ef92482ffd3c3b6e467c8aaa03774
 SHA256: 1d89629971de99249a0993518afd01f1aa28945d6ee1b80cd0668bf228e1d319
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookFull
+Name: AtlTeamhookFull
+Architecture: iphoneos-arm
+Version: 1.0-160
+Description: Hook  by lyxaben for appleid
+Maintainer: AtlTeamhookFull 
+Author: AtlTeamhookFull 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-160_iphoneos-arm.deb
+Size: 24088
+MD5sum: be7ac83fe1ec0b3366165fea13733c17
+SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
+SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
