@@ -134,6 +134,37 @@ SHA1: 930f27caf8c0147455ea3aa8264c0c711efb4e3b
 SHA256: 2b61f44b8d651dea8d02aaf59815f4dc2cc7fed29df3d7c0749f29af1cd4f22e
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelper
+Architecture: iphoneos-arm
+Version: 1.0-3
+Description: AutoLeadHelper reg appleid by lyxaben
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-3_iphoneos-arm.deb
+Size: 346428
+MD5sum: c400e1d10a0e8068e208d0f1de47af97
+SHA1: f5744f651c0ac87fcd1844fccaa2b03212d5fb97
+SHA256: bbab2226ad343ed1df697870e61a51b003db1a97bf011d6cb2eb6ed27a0500f0
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookFull
+Name: AtlTeamhookFull
+Architecture: iphoneos-arm
+Version: 1.0-160
+Description: Hook  by lyxaben for appleid
+Maintainer: AtlTeamhookFull 
+Author: AtlTeamhookFull 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-160_iphoneos-arm.deb
+Size: 24088
+MD5sum: be7ac83fe1ec0b3366165fea13733c17
+SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
+SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+
 Package: com.lyxaben.AutoLeadHelperYTB
 Name: AutoLeadHelperYTB
 Architecture: iphoneos-arm
@@ -154,7 +185,7 @@ Package: com.lyxaben.AtlTeamhookYTB
 Name: AtlTeamhookYTB
 Architecture: iphoneos-arm
 Version: 1.0-4
-Description: AtlTeamhookYTB for YTN by lyxaben
+Description: AtlTeamhookYTB for YTB by lyxaben
 Maintainer: AtlTeamhookYTB 
 Author: AtlTeamhookYTB 
 Section: Tweaks
@@ -163,19 +194,4 @@ Size: 21188
 MD5sum: 202b8dc8b806c2681fabd277c311b860
 SHA1: a364b6b20b5ef92482ffd3c3b6e467c8aaa03774
 SHA256: 1d89629971de99249a0993518afd01f1aa28945d6ee1b80cd0668bf228e1d319
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-
-Package: com.nguyentrungkien.AtlTeamhookFull
-Name: AtlTeamhookFull
-Architecture: iphoneos-arm
-Version: 1.0-160
-Description: Hook  by lyxaben for appleid
-Maintainer: AtlTeamhookFull 
-Author: AtlTeamhookFull 
-Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-160_iphoneos-arm.deb
-Size: 24088
-MD5sum: be7ac83fe1ec0b3366165fea13733c17
-SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
-SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
