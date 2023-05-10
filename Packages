@@ -244,16 +244,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.lyxaben.AutoLeadHelperYTB
 Name: AutoLeadHelperYTB
 Architecture: iphoneos-arm
-Version: 1.0-205
+Version: 1.0-209
 Description: AutoLeadHelperYTB for YTB by lyxaben
 Maintainer: AutoLeadHelperYTB 
 Author: AutoLeadHelperYTB 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-205_iphoneos-arm.deb
-Size: 368432
-MD5sum: 0ec17c6c34887f34984303d3430f5e64
-SHA1: fd83b143c41fd499b321bea675deedcedf0a7670
-SHA256: 36496a78930b1a9e74d23ae875543cce3ed4140bcf2e4944400f1aaf70999ba9
+Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-209_iphoneos-arm.deb
+Size: 369068
+MD5sum: 9bcb46ff06e49b298ffdfdd79fe7c117
+SHA1: bf1df4c0a17f09bc3b921ef566108c82b6e7f4eb
+SHA256: 492c3c3b97bc6e69946f0ae9034947179bf10530d5263177f152afcf5b9ebbb7
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
 Package: com.lyxaben.AtlTeamhookYTB
