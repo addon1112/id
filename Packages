@@ -319,14 +319,14 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Package: com.lyxaben.AtlTeamhookYTB
 Name: AtlTeamhookYTB
 Architecture: iphoneos-arm
-Version: 1.0-14
+Version: 1.0-15
 Description: AtlTeamhookYTB for YTB by lyxaben
 Maintainer: AtlTeamhookYTB 
 Author: AtlTeamhookYTB 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.AtlTeamhookYTB_1.0-14_iphoneos-arm.deb
-Size: 21416
-MD5sum: b856ddf6e9ec0f48f15a627b4f9f6ff8
-SHA1: 93bd162eff2d92de86f9336cd553a0951a773210
-SHA256: 0e3f4581676f4ece0a478d193b4f1e73ee2c6b9fa56235614ee1cb45857499a6
+Filename: ./debs/com.lyxaben.AtlTeamhookYTB_1.0-15_iphoneos-arm.deb
+Size: 21480
+MD5sum: d5aa551c694697adaa2a7000ffdec1a3
+SHA1: f250e3d1c4a6a74a59ed5a3bc1a2c41f05fcf7c3
+SHA256: d533783e8f67ebc3269bd1a15d2b1550b4f50d61357214ee127b6441668288b6
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
