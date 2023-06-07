@@ -103,37 +103,142 @@ SHA1: 8cefa000880f4e5e4f1f7fdd47837febb27df3a5
 SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
 Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
 
+Package: com.antran.AtlTeamhookios13
+Name: AtlTeamhookios13
+Architecture: iphoneos-arm
+Version: 1.0-1
+Description: Hook for appleid by lyxaben
+Maintainer: AtlTeamhookios13 
+Author: AtlTeamhookios13 
+Section: Tweaks
+Filename: ./debs/com.antran.AtlTeamhookios13_1.0-1_iphoneos-arm.deb
+Size: 21120
+MD5sum: e27e0b393493a529331b942f7e8b5ace
+SHA1: 59b42f281797886e4ced25d47a8935ce56d68046
+SHA256: 2ed888ea056356f445e7a9f57a24ae6cfbc1f6be030cd4702f22225f340c1ca3
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 
 Package: com.antran.AutoLeadHelper
-Name: AutoLeadHelperREID
+Name: AutoLeadHelper
 Architecture: iphoneos-arm
-Version: 1.0-19
+Version: 1.0-2
 Description: AutoLeadHelper reg appleid by lyxaben
 Maintainer: AutoLeadHelper 
 Author: AutoLeadHelper 
 Section: Tweaks
-Filename: ./debs/com.antran.AutoLeadHelper_1.0-19_iphoneos-arm.deb
-Size: 345824
-MD5sum: 18652666887f8e1306a142276f83bac9
-SHA1: 9dc119b0aadd23c1b54dc3e1b861f2ae4c787c86
-SHA256: 755bb8e8c29e91a3fb1b37b6f41aa3f5edf2aa5150f8326895ee608bf6e2d217
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-2_iphoneos-arm.deb
+Size: 345732
+MD5sum: 38d43ce8bb204a86504afa2d35d1c35b
+SHA1: 930f27caf8c0147455ea3aa8264c0c711efb4e3b
+SHA256: 2b61f44b8d651dea8d02aaf59815f4dc2cc7fed29df3d7c0749f29af1cd4f22e
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
-Package: com.nguyentrungkien.AtlTeamhook
-Name: AtlTeamhookREID
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelper
 Architecture: iphoneos-arm
-Version: 1.0-167
-Description: Hook  by lyxaben for appleid
-Maintainer: AtlTeamhook 
-Author: AtlTeamhook 
+Version: 1.0-3
+Description: AutoLeadHelper reg appleid by lyxaben
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-167_iphoneos-arm.deb
-Size: 24040
-MD5sum: 88a1c7a777eeeb39825515eee519954b
-SHA1: 359d8f8ef179c52a728018f744056b981ece5c7c
-SHA256: 1a6c7f05cb2abc992b04d47937319a738f1fb265fbb34f619b20cc0df800984d
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-3_iphoneos-arm.deb
+Size: 346428
+MD5sum: c400e1d10a0e8068e208d0f1de47af97
+SHA1: f5744f651c0ac87fcd1844fccaa2b03212d5fb97
+SHA256: bbab2226ad343ed1df697870e61a51b003db1a97bf011d6cb2eb6ed27a0500f0
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelper
+Architecture: iphoneos-arm
+Version: 1.0-5
+Description: AutoLeadHelper reg appleid by lyxaben
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-5_iphoneos-arm.deb
+Size: 344712
+MD5sum: 545fdc3a9ad0fa3106ced2af9f52d3a0
+SHA1: 1bb44df6798b5db6415b28c83f845bf41e4e4ae0
+SHA256: e431f2caaca8aba2581514e87428e4f570f2833355cf7c273f973f41c2b080e8
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelper
+Architecture: iphoneos-arm
+Version: 1.0-17
+Description: AutoLeadHelper reg appleid by lyxaben
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-17_iphoneos-arm.deb
+Size: 345260
+MD5sum: 1c1a4cd82c90a167bd2d56ffd51a70b1
+SHA1: 59de0eb23e05cdb56a7228aebcc7fc72d19db7f6
+SHA256: 083b3ce54160baa7ee6e5bbc1bc863d73be24a8bcb5c28c8283cf61b2ad92db7
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookFull
+Name: AtlTeamhookFull
+Architecture: iphoneos-arm
+Version: 1.0-160
+Description: Hook  by lyxaben for appleid
+Maintainer: AtlTeamhookFull 
+Author: AtlTeamhookFull 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-160_iphoneos-arm.deb
+Size: 24088
+MD5sum: be7ac83fe1ec0b3366165fea13733c17
+SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
+SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+
+Package: com.nguyentrungkien.AtlTeamhookNormal
+Name: AtlTeamhookNormal
+Architecture: iphoneos-arm
+Version: 1.0-163
+Description: Hook  by lyxaben for appleid
+Maintainer: AtlTeamhookNormal 
+Author: AtlTeamhookNormal 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-163_iphoneos-arm.deb
+Size: 10456
+MD5sum: d6c17a6abb4716fb415310f4cf75ea16
+SHA1: d6179e2622581224d8b585a84934828ce9e826b1
+SHA256: fcbdaedaaabb4ed16dbae42f61504907d8cd54dbe0f408b69665d0f5c85deedb
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookios13
+Name: AtlTeamhookios13
+Architecture: iphoneos-arm
+Version: 1.0-7
+Description: Hook by LyNguyen -->Nguyen Trung Kien IOS13
+Maintainer: AtlTeamhookios13 
+Author: AtlTeamhookios13 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhookios13_1.0-7_iphoneos-arm.deb
+Size: 20936
+MD5sum: 20a41f2920e9c2911d68d0223e88b315
+SHA1: 68a6bfedb27f94869cbb077adacf28197902cf2c
+SHA256: 56857576f86302d4d1081cb37de69f82008f42f4c576e159519276a5584c2968
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookios13
+Name: AtlTeamhookios13
+Architecture: iphoneos-arm
+Version: 1.0-53
+Description: Hook by LyNguyen -->Nguyen Trung Kien IOS13
+Maintainer: AtlTeamhookios13 
+Author: AtlTeamhookios13 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhookios13_1.0-53_iphoneos-arm.deb
+Size: 22160
+MD5sum: c4d0d9319108dd222de62a8550a65e34
+SHA1: c07aeacc757aa4e9036ee9e4c14be607bb50c745
+SHA256: ede50e5d4aaec900a243221e5b2ff0e8f10545d47922d81a89ad48b0bf06d2c2
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 Package: com.lyxaben.AutoLeadHelperYTB
 Name: AutoLeadHelperYTB
