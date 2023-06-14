@@ -149,6 +149,21 @@ SHA1: 5b08e4e466af42e91bb092c89aa1437279b1745f
 SHA256: e014bea64a4779237fe1101243f6bcb2933bb5beb491603691b4407c22eb2489
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-189
+Description: Hook  by lyxaben for appleid fix devicetype + limit 3id
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-189_iphoneos-arm.deb
+Size: 24132
+MD5sum: bc4e1997e0edbf637dba6a7e264b6ec6
+SHA1: 37b5c448e5ee60ce557fb30a2883861069c36ac4
+SHA256: e1324bb5d9e784260ced533eac587b99673baa72ce8f4b44ae81711382dbe179
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.lyxaben.AutoLeadHelperYTB
 Name: AutoLeadHelperYTB
 Architecture: iphoneos-arm
