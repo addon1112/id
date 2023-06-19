@@ -225,6 +225,22 @@ SHA1: 0f42b6828a2322ad7f5652335e430a252e8f9071
 SHA256: 017f66139c5fe277226636b4f8ed12268e95066899d86ea4946129c711aaffd1
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,com.tigisoftware.appdatamanager,com.tigisoftware.filza
 
+Package: com.lyxaben.AutoLeadHelperYTB
+Name: AutoLeadHelperYTB
+Architecture: iphoneos-arm
+Version: 1.0-249
+Description: AutoLeadHelperYTB for YTB by lyxaben sv new
+Maintainer: AutoLeadHelperYTB 
+Author: AutoLeadHelperYTB 
+Section: Tweaks
+Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-249_iphoneos-arm.deb
+Size: 376516
+MD5sum: fd7a7fb6e446f698a29880dd598d371a
+SHA1: b27aa7dd6f76217c016117cc85bbb065689e26d7
+SHA256: 29dde28a7010335737395312bc2d897436c111356463f8a29b4a6de0e56e13db
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,com.tigisoftware.appdatamanager,com.tigisoftware.filza
+
+
 Package: com.lyxaben.AtlTeamhookYTB
 Name: AtlTeamhookYTB
 Architecture: iphoneos-arm
